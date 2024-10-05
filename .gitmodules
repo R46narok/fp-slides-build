@@ -1,0 +1,3 @@
+[submodule "fp-slides"]
+	path = fp-slides
+	url = https://github.com/triffon/fp-slides
